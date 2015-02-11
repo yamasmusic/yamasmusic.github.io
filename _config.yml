@@ -1,0 +1,12 @@
+# Site settings
+title: Yamas - יאמאס
+email: yamasmusic@gmail.com
+description: > 
+    מוזיקה לחיים טובים
+    Yamas- Music For Life
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+facebook_page: yamasmusic
+
+# Build settings
+markdown: kramdown
