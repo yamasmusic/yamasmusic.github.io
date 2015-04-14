@@ -4,10 +4,10 @@ layout: page
 position: 5
 ---
 <form action="//formspree.io/yamasmusic@gmail.com" method="post">
-    <p>שם<input type="text" name="name">Name</p>
-    <p>טלפון<input type="text" name="phone">Phone</p>
+    <p>          שם<input type="text" name="name">Name</p>
+    <p>       טלפון<input type="text" name="phone">Phone</p>
     <p>כתובת לתגובה<input type="email" name="_replyto">Reply-To Address</p>
-    <p>הודעה <textarea name="body"></textarea>Message</p>
+    <p>        הודעה <textarea name="body"></textarea>Message</p>
     <p><input type="submit" value="Send שלח"> </p>
 </form>
 
