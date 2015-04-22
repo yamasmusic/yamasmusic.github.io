@@ -20,6 +20,8 @@ position: 4
 
 …פסטיבלים ועוד
 
+![World music](gallery/ensemble.jpg)
+
 # טריו מוזיקת עולם
 
 המשלב כלים ייחודים ומסורתיים
